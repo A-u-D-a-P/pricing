@@ -1,0 +1,110 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-transform: uppercase;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+   background-color: black;
+}
+
+.wrap{
+   background-color: rgba(95, 255, 202, 0.808);
+   width: 1000px;
+   height: 600px;
+   margin: auto;
+   /* padding-bottom: 100px; */
+   margin-top: 60px;
+   padding-top: 80px;
+   display: block;
+}
+.container{
+   display: block;
+   width: 800px;
+   height: 430px;
+   background-color:white;
+   margin: auto;
+   padding-top: 40px;
+   /* margin-top: 150px; */
+   border-radius: 25px;
+   -webkit-border-radius: 25px;
+   -moz-border-radius: 25px;
+   -ms-border-radius: 25px;
+   -o-border-radius: 25px;
+}
+.first-card{
+   display: inline-block;
+   margin-left: 10px;
+   width: 250px;
+}
+.second-card{
+   display: inline-block;
+   margin-left: 16px;
+   width: 250px;
+}
+.third-card{
+   display: inline-block;
+   margin-left: 16px;
+   width: 240px;
+}
+
+.card-list, .second-card-list, .third-card-list{
+   list-style: none;
+   text-align: center;
+   line-height: 38px;
+}
+
+.second-card-list img{
+   width: 140px;
+   height: 140px;
+}
+
+.personal-title{
+   color:rgb(193, 193, 193);
+   font-size: 16px;
+}
+
+.team-title{
+   color:rgba(255, 183, 0, 0.797);
+   font-size: 16px;
+}
+.corporate-title{
+   color:crimson;
+   font-size: 16px;
+}
+
+hr{
+   width: 40%;
+   margin: auto;
+   color:rgb(225, 225, 225);
+   /* height: 2px; */
+}
+p{
+   color:rgb(123, 123, 123);
+   /* font-family: Arial, Helvetica, sans-serif; */
+   font-size: 12px;
+}
+strong{
+   color:black;
+   /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
